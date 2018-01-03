@@ -4,6 +4,4 @@ dependencies:
   - jupyter
   - numpy
   - scipy
-  - pandas
   - matplotlib
-  - mpl_toolkits
