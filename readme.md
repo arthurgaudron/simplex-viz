@@ -13,7 +13,7 @@ Objectives :
 
 Run the cells with shift + enter. You can move the plot and use the widget to interact.
 
-For the sensitivity analysis, only use change the profit for B.
+For the sensitivity analysis, only change the profit for B.
 
 There is a bug in the notebook, if the plot is not interactive, re-run the cell (shift + enter).
 
