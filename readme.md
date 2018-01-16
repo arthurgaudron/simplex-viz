@@ -9,6 +9,15 @@ Objectives :
 # Test it now with binder !
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/arthurgaudron/simplex-viz/master)
 
+# How to use the notebook
+
+Run the cells with shift + enter. You can move the plot and use the widget to interact.
+
+For the sensitivity analysis, only use change the profit for B.
+
+There is a bug in the notebook, if the plot is not interactive, re-run the cell (shift + enter).
+
+
 # License
 
 [![Licence Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
